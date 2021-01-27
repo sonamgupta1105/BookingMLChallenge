@@ -17,3 +17,4 @@ E.	Device_class can tell the age demographics.
 Tutorials to refer:
 1. https://towardsdatascience.com/overview-on-building-a-local-coffee-drinking-outlet-recommender-and-deployment-with-flask-and-39b16fb40388  
 2. https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-recommendation-engine-python/
+3. https://www.kdnuggets.com/2019/09/machine-learning-recommender-systems.html
